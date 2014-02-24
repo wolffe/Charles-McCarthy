@@ -2,8 +2,8 @@
 	<widget xmlns = "http://www.w3.org/ns/widgets"
 		xmlns:gap = "http://phonegap.com/ns/1.0"
 		id        = "com.mccarthy.webredir"
-		versionCode="3"
-		version   = "1.2">
+		versionCode="4"
+		version   = "1.3">
 		<name>Charles McCarthy</name>
 		<description>
 Established in business in Skibbereen for four generations, we are over forty years in estate agency and auctioneering. We handle all types of property – residential, coastal, period, agricultural and commercial. Due to our unique ocean side location on the gulf stream, coastal and holiday properties form a substantial part of our business.		</description>
