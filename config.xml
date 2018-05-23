@@ -3,8 +3,8 @@
 	xmlns:gap = "http://phonegap.com/ns/1.0"
 	xmlns:android = "http://schemas.android.com/apk/res/android"
 	id        = "com.mccarthy.webredir"
-	versionCode = "9"
-	version   = "1.9.1">
+	versionCode = "10"
+	version   = "1.9.2">
 	<name>Charles McCarthy</name>
 	<description>Established in business in Skibbereen for four generations, we are over forty years in estate agency and auctioneering. We handle all types of property – residential, coastal, period, agricultural and commercial. Due to our unique ocean side location on the gulf stream, coastal and holiday properties form a substantial part of our business.</description>
 	<author href="https://getbutterfly.com/" email="getbutterfly@gmail.com">Ciprian Popescu</author>
