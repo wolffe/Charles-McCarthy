@@ -34,7 +34,7 @@
 	<preference name="SuppressesIncrementalRendering" value="true" />
 	<preference name="windows-identity-name" value="" />
 	<preference name="android-minSdkVersion" value="21" />
-	<preference name="android-targetSdkVersion" value="23" />
+	<preference name="android-targetSdkVersion" value="26" />
 	<preference name="android-installLocation" value="preferExternal" />
 	<preference name="SplashScreenDelay" value="5000" />
 	<preference name="ErrorUrl" value="" />
